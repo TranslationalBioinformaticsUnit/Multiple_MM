@@ -23,3 +23,11 @@ HUMAN
 #3.Check the significant genes and the direction of the genes in each model
 
 #4.GSEA
+
+
+# DATA
+
+count matrix and design matrix: E:\MM\MM_analysis\Mouse_filtered\DATA (in the USB ) and also in MM folder in my desktop
+
+# Scripts
+
